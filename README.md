@@ -1,4 +1,4 @@
 # ssh-comands
 Нужные Ssh команды
 
-[node](/ssh-comands/wiki/node)
+[node](https://github.com/Dimannot/ssh-comands/wiki/node)
